@@ -1,0 +1,281 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
+
+.nav {
+    width: 100%;
+    height: 1276px;
+}
+
+.menu {
+    width: 100%;
+    height: 11%;
+    background: rgba(0, 0, 0, 0.70);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 130px;
+}
+
+.test-0-logo {
+    padding: 12px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.test-0-nav-1 {
+    color: #5C3AFE;
+    font-size: 36px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 200px
+}
+
+.test-0-nav-2 {
+    width: 453px;
+    height: 39px;
+    border-radius: 40px;
+    color: #000;
+    padding: 10px;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.test-0-nav-3 {
+    color: #5C3AFE;
+    font-size: 36px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.test-0-nav-4 {
+    color: #ffffff;
+    font-size: 36px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 200px
+}
+
+.podval {
+    margin-top: 100px;
+    width: 1920px;
+    height: 292px;
+    background-color: #FFF;
+    display: flex;
+}
+
+.img-pod {
+    margin-top: 77px;
+    margin-left: 66px;
+    position: absolute;
+}
+
+.t1 {
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+
+.pod-t {
+    display: flex;
+    flex-direction: column;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.pod-t1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.test-0-phone {
+    color: #000;
+    font-size: 40px;
+    font-family: Inter;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.prof-top {
+    width: 1485px;
+    height: 281px;
+    background: rgba(92, 58, 254, 0.70);
+    margin-left: 200px;
+}
+
+.prof-img {
+    padding-left: 56;
+    padding-top: 63px;
+}
+
+.test-3-name {
+    position: absolute;
+    color: #FFF;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: -140px;
+    margin-left: 280px;
+}
+
+.test-3-last {
+    position: absolute;
+    color: #FFF;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: -140px;
+    margin-left: 380px;
+}
+
+.test-3-num {
+    position: absolute;
+    width: 201px;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -90px;
+    margin-left: 280px;
+}
+
+.test-3-logout {
+    position: absolute;
+    width: 244px;
+    height: 90px;
+    border-radius: 30px;
+    background: #8F2121;
+    color: #FFF;
+    font-size: 36px;
+    margin-left: 896px;
+    margin-top: 102px;
+}
+
+.prof-bottom {
+    width: 1485px;
+    height: 995px;
+    background: #FFF;
+    margin-left: 200px;
+    margin-top: -35;
+}
+
+.prof-title {
+    color: #000;
+    font-size: 36px;
+    padding-top: 127px;
+    padding-left: 100px;
+}
+
+.prof-t {
+    display: flex;
+    justify-content: center;
+}
+
+.prof-kod {
+    color: #000;
+    font-size: 36px;
+    margin-right: 101px;
+}
+
+.prof-kod1 {
+    color: #000;
+    font-size: 36px;
+    margin-right: 144px;
+}
+
+.prof-kod2 {
+    color: #000;
+    font-size: 36px;
+    margin-right: 66px;
+}
+
+.prof-kod3 {
+    color: #000;
+    font-size: 36px;
+    margin-right: 117px;
+}
+
+.prof-kod4 {
+    color: #000;
+    font-size: 36px;
+    margin-right: 45px;
+}
+
+.prof-kod5 {
+    color: #000;
+    font-size: 36px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+.kod {
+    width: 150px;
+    height: 150px;
+    border-radius: 30px 0px 0px 30px;
+    background: #D9D9D9;
+    margin-right: 10px;
+}
+
+.test-3-code {
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 20px;
+}
+
+.date {
+    width: 220px;
+    height: 150px;
+    background: #D9D9D9;
+    margin-right: 10px;
+}
+
+.test-3-d1{
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+}
+
+.test-3-t1{
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 20px;
+}
+
+.test-3-t2{
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 20px;
+}
+
+.test-3-category{
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 20px;
+}
+
+.gen{
+    width: 150px;
+    height: 150px;
+    border-radius: 0px 30px 30px 0px;
+    background: #D9D9D9;
+}
+
+.test-3-genre{
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 20px;
+}
